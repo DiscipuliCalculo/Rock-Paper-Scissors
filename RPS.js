@@ -5,7 +5,7 @@ function playerPlay(strPlayer) {
   else if (strPlayer == 'PAPER') {
     num = 1;
   }
-  else if (strPlayer == 'SICSSORS') {
+  else if (strPlayer == 'SCISSORS') {
     num = 2;
   }
   return num;
